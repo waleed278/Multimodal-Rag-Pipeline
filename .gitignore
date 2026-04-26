@@ -207,4 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 # Vector database
-db/
+dbv1/
+dbv2/
+
+#json
+
